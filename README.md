@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ravi</h1>
-<h3 align="center">AI/ML Enthusiast | Building smart, data-driven solutions</h3>
+<h2 align="center">Hi 👋, I'm Ravi</h2>
+<h4 align="center">AI/ML Enthusiast | Building smart, data-driven solutions</h4>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer+in+the+making;Deep+Learning+%7C+MLOps+%7C+Cloud+(AWS);Turning+data+into+decisions" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 💼 Completed a **Machine Learning Internship** at **Prodigy InfoTech**, working on:
+- 💼 Completed a **Machine Learning Internship** at **Prodigy InfoTech**, worked on:
   - 🏠 House Price Prediction
   - ✋ Hand Gesture Recognition
   - 😊 Face Emotion Detection
