@@ -1,12 +1,11 @@
 # Hi, I'm Ravi 👋
 
-**AI/ML Enthusiast** | Machine Learning Intern @ Prodigy InfoTech | Building & shipping ML projects
+**AI/ML Enthusiast** | Building & shipping ML projects
 
 ---
 
 ## About Me
 
-- 🤖 Machine Learning Intern @ **Prodigy InfoTech** (Dec 2025 – Mar 2026)
 - 🛠️ Built 14+ ML algorithms from scratch — Python, NumPy, Pandas, Scikit-learn, TensorFlow/Keras
 - 🎯 Focused on Applied ML, ML Engineering, and Data-driven projects
 - 🌱 Currently learning: Deep Learning, MLOps, Docker, Kubernetes, AWS (EC2, S3, IAM, Lambda, SageMaker)
