@@ -34,7 +34,6 @@
 | Hand Gesture Recognition | Real-time gesture classification using computer vision | Python, OpenCV, TensorFlow |
 | Face Emotion Detection | CNN-based facial emotion recognition web app | TensorFlow.js, Face-API.js, Flask, OpenCV |
 
-*(Update the links above with your actual repo URLs)*
 
 ---
 
