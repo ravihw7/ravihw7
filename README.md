@@ -28,6 +28,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
+| [CreditWise Loan Approval System](https://github.com/ravihw7/Creditwise-Loan-System) | ML-based loan approval prediction system for credit risk assessment | Python, Scikit-learn |
 | [ML-Algorithms](https://github.com/ravihw7/ML-Algorithms) | 14+ ML algorithms implemented from scratch for learning & reference | Python, NumPy, Pandas, Scikit-learn |
 | House Price Prediction | Regression model predicting housing prices from real estate features | Python, Scikit-learn |
 | Hand Gesture Recognition | Real-time gesture classification using computer vision | Python, OpenCV, TensorFlow |
