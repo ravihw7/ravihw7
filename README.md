@@ -16,7 +16,7 @@
 ## Tech Stack
 
 **Languages:** Python · SQL  
-**ML / DL:** Scikit-learn · TensorFlow · Keras · NumPy · Pandas  
+**ML / DL:** Scikit-learn · PyTorch · NumPy · Pandas  
 **Computer Vision:** OpenCV · Face-API.js · TensorFlow.js  
 **Web / Backend:** Flask  
 **MLOps / Cloud:** Docker · Kubernetes · AWS · MongoDB  
