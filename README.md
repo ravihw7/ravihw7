@@ -1,6 +1,6 @@
 # Hi, I'm Ravi 👋   
 
-**AI/ML Enthusiast** | Building & shipping ML projects
+**AI/ML Enthusiast** | Building & shipping ML projects 
 
 ---
 
