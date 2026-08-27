@@ -6,7 +6,7 @@
 
 ## About Me
 
-- 🛠️ Built 14+ ML algorithms from scratch — Python, NumPy, Pandas, Scikit-learn, TensorFlow/Keras
+- 🛠️ Built 14+ ML algorithms from scratch — Python, NumPy, Pandas, Scikit-learn, PyTorch
 - 🎯 Focused on Applied ML, ML Engineering, and Data-driven projects
 - 🌱 Currently learning: Deep Learning, MLOps, Docker, Kubernetes, AWS (EC2, S3, IAM, Lambda, SageMaker)
 - 💡 Exploring: AI evaluation & red-teaming
