@@ -1,49 +1,156 @@
-# Hi, I'm Ravi 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1D2021,50:3C3836,100:1D2021&height=230&section=header&text=ravi.harshwardhan&fontSize=46&fontColor=FABD2F&fontAlignY=42&desc=model_card%20v2026%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Chennai%2C%20IN&descSize=17&descAlignY=62&descAlign=50&stroke=FE8019&strokeWidth=1"/>
 
-**AI/ML Enthusiast** | Building & shipping ML projects
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=8EC07C&center=true&vCenter=true&width=700&lines=%3E%3E%3E+model.load(%22ravi%22);Loading+14%2B+algorithms+built+from+scratch...+done;Red-teaming+LLMs...+pass+rates+logged;Tracking+pose+in+real+time...+reps+counted;status%3A+open+to+AI%2FML+Engineer+roles" alt="typing" />
+</p>
 
----
-
-## About Me
-
-- 🛠️ Built 14+ ML algorithms from scratch — Python, NumPy, Pandas, Scikit-learn, PyTorch
-- 🎯 Focused on Applied ML, ML Engineering, and Data-driven projects
-- 🛡️ Built an [LLM red-team & eval harness](https://github.com/ravihw7/RedTeam---Harness) to explore AI evaluation and safety testing
-- 🏋️ Built [CoachRep](https://github.com/ravihw7/CoachRep), a real-time AI gym coach with pose tracking and LLM voice feedback
-- 🌱 Currently learning: MLOps, Docker, Kubernetes, AWS (EC2, S3, IAM, Lambda, SageMaker)
-
----
-
-## Tech Stack
-
-**Languages:** Python · SQL  
-**ML / DL:** Scikit-learn · PyTorch · NumPy · Pandas  
-**LLMs & AI Eval:** Anthropic Claude API · Groq (Llama 3.3) · LLM-as-judge evaluation · Hugging Face Transformers  
-**Computer Vision & Audio:** OpenCV · MediaPipe · face_recognition (dlib) · Resemblyzer · Librosa · gTTS · Face-API.js · TensorFlow.js  
-**Web / Apps:** Flask · Streamlit · WebRTC  
-**Databases:** SQLite (SQLAlchemy) · Supabase · MongoDB  
-**MLOps / Cloud:** Docker · Kubernetes · AWS  
-**Tools:** Git · VS Code
+<p align="center">
+  <img src="https://img.shields.io/badge/task-Applied%20ML%20%7C%20LLM%20Eval%20%7C%20Computer%20Vision-FE8019?style=flat-square&labelColor=282828"/>
+  <img src="https://img.shields.io/badge/framework-PyTorch%20%7C%20Scikit--learn-FABD2F?style=flat-square&labelColor=282828"/>
+  <img src="https://img.shields.io/badge/region-Chennai%20%7C%20Bengaluru-8EC07C?style=flat-square&labelColor=282828"/>
+  <img src="https://img.shields.io/badge/status-actively%20training-B8BB26?style=flat-square&labelColor=282828"/>
+</p>
 
 ---
 
-## Pinned Projects
+## 📄 Model Details
 
-| Project | Description | Tech |
-|---|---|---|
-| [CoachRep](https://github.com/ravihw7/CoachRep) | Real-time AI gym coach: tracks your form via webcam, counts reps for 5 exercises, and gives spoken coaching cues from an LLM | Python, MediaPipe, OpenCV, Streamlit, Groq (Llama 3.3), gTTS, SQLite |
-| [RedTeam-Harness](https://github.com/ravihw7/RedTeam---Harness) | Red-team & eval harness for Claude models: runs jailbreak, prompt-injection, bias, hallucination & over-refusal test suites, grades responses with a separate LLM judge, and shows per-category pass rates in a Flask dashboard | Python, Anthropic API, Flask, SQLAlchemy, SQLite |
-| [RavClass-AI-Attendance](https://github.com/ravihw7/RavClass-AI-Attendance) | AI-powered classroom attendance system using face recognition and voice verification, with a Streamlit interface and cloud database | Python, face_recognition, Resemblyzer, Streamlit, Supabase |
-| [ML-Algorithms](https://github.com/ravihw7/ML-Algorithms) | 14+ ML algorithms implemented from scratch for learning & reference | Python, NumPy, Pandas, Scikit-learn |
-| [Text-Summarizer](https://github.com/ravihw7/Text-Summarizer) | Abstractive & extractive summarization of long-form text using transformer models | Python, PyTorch, Hugging Face Transformers |
+```python
+class Ravi(AIMLEngineer):
+    def __init__(self):
+        self.name        = "Ravi Harshwardhan"
+        self.location    = "Chennai, Tamil Nadu, India"
+        self.role        = "AI/ML Engineer"
+        self.focus       = ["Applied ML", "ML Engineering", "LLM Evaluation", "Computer Vision"]
+        self.built       = "14+ ML algorithms from scratch"
+        self.learning    = ["MLOps", "Docker", "Kubernetes", "AWS (EC2, S3, IAM, Lambda, SageMaker)"]
+        self.motto       = "learning in public, one commit at a time"
+
+    def available_for(self):
+        return "Entry-level AI/ML Engineer roles"
+```
 
 ---
 
-## Connect
+## 🗂️ Training Data &nbsp;<sub>(education)</sub>
 
-[![Email](https://img.shields.io/badge/Email-ravihwoff%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:ravihwoff@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ravihw7-black?style=flat&logo=github)](https://github.com/ravihw7)
+| Dataset | Source | Split |
+| :--- | :--- | :---: |
+| 📘 **MCA** — Master of Computer Applications | Jain (Deemed-to-be University), online | `training` → 2028 |
+| 📗 **BCA** — Bachelor of Computer Applications | St. Philomena's College (Autonomous), Mysore | `completed` 2026 |
 
 ---
 
-*Actively building — learning in public, one commit at a time.*
+## 🎛️ Fine-Tuning &nbsp;<sub>(experience)</sub>
+
+> **Machine Learning Intern** · Prodigy InfoTech · Remote · `Dec 2025 → Mar 2026`
+>
+> - 🏠 House-price prediction with **linear regression**
+> - ✋ **Hand gesture recognition** pipeline
+> - 😊 **CNN** for facial emotion detection
+
+---
+
+## ⚙️ Architecture &nbsp;<sub>(tech stack)</sub>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,tensorflow,opencv,flask,mongodb,sqlite,supabase,docker,kubernetes,aws,git,vscode&theme=dark&perline=7" />
+</p>
+
+```yaml
+languages:      [Python, SQL]
+ml_dl:          [Scikit-learn, PyTorch, NumPy, Pandas]
+llm_and_eval:   [Anthropic Claude API, Groq (Llama 3.3), LLM-as-judge, Hugging Face Transformers]
+vision_audio:   [OpenCV, MediaPipe, face_recognition (dlib), Resemblyzer, Librosa, gTTS, Face-API.js, TensorFlow.js]
+web_apps:       [Flask, Streamlit, WebRTC]
+databases:      [SQLite (SQLAlchemy), Supabase, MongoDB]
+mlops_cloud:    [Docker, Kubernetes, AWS]
+tools:          [Git, VS Code]
+```
+
+---
+
+## 🧪 Evaluation Results &nbsp;<sub>(projects)</sub>
+
+<details open>
+<summary><b>🏋️ CoachRep</b> — real-time AI gym coach &nbsp;·&nbsp; <a href="https://github.com/ravihw7/CoachRep">repo ↗</a></summary>
+<br>
+
+Watches your form through the webcam, counts reps for **5 exercises**, and speaks coaching cues generated by an LLM.
+
+`Python` `MediaPipe` `OpenCV` `Streamlit` `Groq (Llama 3.3)` `gTTS` `SQLite`
+</details>
+
+<details open>
+<summary><b>🛡️ RedTeam-Harness</b> — LLM red-team & eval &nbsp;·&nbsp; <a href="https://github.com/ravihw7/RedTeam---Harness">repo ↗</a></summary>
+<br>
+
+Runs jailbreak, prompt-injection, bias, hallucination and over-refusal suites against Claude models, grades each response with a separate **LLM judge**, and reports per-category pass rates in a Flask dashboard.
+
+`Python` `Anthropic API` `Flask` `SQLAlchemy` `SQLite`
+</details>
+
+<details open>
+<summary><b>🎓 RavClass</b> — AI attendance system &nbsp;·&nbsp; <a href="https://github.com/ravihw7/RavClass-AI-Attendance">repo ↗</a></summary>
+<br>
+
+Marks classroom attendance with **face recognition + voice verification**, through a Streamlit interface backed by a cloud database.
+
+`Python` `face_recognition` `Resemblyzer` `Streamlit` `Supabase`
+</details>
+
+<details>
+<summary><b>🧠 ML-Algorithms</b> — 14+ algorithms from scratch &nbsp;·&nbsp; <a href="https://github.com/ravihw7/ML-Algorithms">repo ↗</a></summary>
+<br>
+
+Classic ML algorithms implemented from the ground up for learning and reference.
+
+`Python` `NumPy` `Pandas` `Scikit-learn`
+</details>
+
+<details>
+<summary><b>📝 Text-Summarizer</b> — abstractive & extractive &nbsp;·&nbsp; <a href="https://github.com/ravihw7/Text-Summarizer">repo ↗</a></summary>
+<br>
+
+Summarizes long-form text using transformer models.
+
+`Python` `PyTorch` `Hugging Face Transformers`
+</details>
+
+---
+
+## 📈 Training Metrics &nbsp;<sub>(GitHub activity)</sub>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravihw7&theme=gruvbox&hide_border=true&area=true" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ravihw7&show_icons=true&theme=gruvbox&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ravihw7&theme=gruvbox&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravihw7&layout=donut&theme=gruvbox&hide_border=true" />
+</p>
+
+---
+
+## 🔌 Inference API &nbsp;<sub>(contact)</sub>
+
+```python
+>>> ravi.predict("Will this candidate fit your AI/ML team?")
+'yes — reach out below 👇'
+```
+
+<p align="center">
+  <a href="mailto:ravihwoff@gmail.com"><img src="https://img.shields.io/badge/POST-ravihwoff%40gmail.com-FE8019?style=for-the-badge&logo=gmail&logoColor=white&labelColor=282828"/></a>
+  <a href="https://www.linkedin.com/in/ravihwoff"><img src="https://img.shields.io/badge/GET-LinkedIn-FABD2F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=282828"/></a>
+  <a href="https://github.com/ravihw7"><img src="https://img.shields.io/badge/GET-GitHub-8EC07C?style=for-the-badge&logo=github&logoColor=white&labelColor=282828"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ravihw7&style=flat-square&color=FE8019&label=inference+calls"/>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1D2021,50:3C3836,100:1D2021&height=60&section=footer&text=epoch%20%E2%88%9E%20%C2%B7%20still%20training&fontSize=16&fontColor=8EC07C"/>
