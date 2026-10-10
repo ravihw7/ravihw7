@@ -103,7 +103,7 @@ Marks classroom attendance with **face recognition + voice verification**, throu
 <summary><b>🧠 ML-Algorithms</b> — 14+ algorithms from scratch &nbsp;·&nbsp; <a href="https://github.com/ravihw7/ML-Algorithms">repo ↗</a></summary>
 <br>
 
-Classic ML algorithms implemented from the ground up for learning and reference.
+Classic ML algorithms implemented from the ground up for learning and reference. 
 
 `Python` `NumPy` `Pandas` `Scikit-learn`
 </details>
