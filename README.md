@@ -1,4 +1,4 @@
-<img width="100%" src="header.svg" alt="ravi.harshwardhan — model card v2026 · AI/ML Engineer · Chennai, IN"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1D2021,50:3C3836,100:1D2021&height=230&section=header&text=ravi.harshwardhan&fontSize=46&fontColor=FABD2F&fontAlignY=42&desc=model_card%20v2026%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Chennai%2C%20IN&descSize=17&descAlignY=62&descAlign=50&stroke=FE8019&strokeWidth=1"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=8EC07C&center=true&vCenter=true&width=700&lines=%3E%3E%3E+model.load(%22ravi%22);Loading+14%2B+algorithms+built+from+scratch...+done;Red-teaming+LLMs...+pass+rates+logged;Tracking+pose+in+real+time...+reps+counted;status%3A+open+to+AI%2FML+Engineer+roles" alt="typing" />
@@ -103,6 +103,7 @@ Marks classroom attendance with **face recognition + voice verification**, throu
 <summary><b>🧠 ML-Algorithms</b> — 14+ algorithms from scratch &nbsp;·&nbsp; <a href="https://github.com/ravihw7/ML-Algorithms">repo ↗</a></summary>
 <br>
 
+Classic ML algorithms implemented from the ground up for learning and reference.
 Classic ML algorithms implemented from the ground up for learning and reference. 
 
 `Python` `NumPy` `Pandas` `Scikit-learn`
