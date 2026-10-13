@@ -1,4 +1,4 @@
-<img width="100%" src="assets/header.svg" alt="ravi.harshwardhan — model card v2026 · AI/ML Engineer · Chennai, IN"/>
+<img width="100%" src="header.svg" alt="ravi.harshwardhan — model card v2026 · AI/ML Engineer · Chennai, IN"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=8EC07C&center=true&vCenter=true&width=700&lines=%3E%3E%3E+model.load(%22ravi%22);Loading+14%2B+algorithms+built+from+scratch...+done;Red-teaming+LLMs...+pass+rates+logged;Tracking+pose+in+real+time...+reps+counted;status%3A+open+to+AI%2FML+Engineer+roles" alt="typing" />
